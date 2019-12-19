@@ -1,7 +1,9 @@
 {
   "name": "egg-ts-router",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
+  "main": "index.js",
+  "types": "inde.d.ts",
   "eggPlugin": {
     "name": "tsRouter"
   },
